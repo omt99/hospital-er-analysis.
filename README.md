@@ -28,32 +28,24 @@ The objective is to transform raw healthcare data into actionable insights that 
 
 Analyzes patient volume and emergency room performance over time to identify monthly trends and variations in demand.
 
-[![Monthly View](monthly_view.png)](monthly_view.png)
+[Monthly View](https://github.com/omt99/hospital-er-analysis./blob/main/monthly_view.png)
+
+![Monthly View](https://github.com/omt99/hospital-er-analysis./raw/main/monthly_view.png)
 
 ### Consolidated View
 
 Presents an overview of key performance indicators, including total patients, average waiting time, patient satisfaction, and admission status.
 
-[![Consolidated View](consolidate%20view.png)](consolidate%20view.png)
+[Consolidated View](https://github.com/omt99/hospital-er-analysis./blob/main/consolidate%20view.png)
+
+![Consolidated View](https://github.com/omt99/hospital-er-analysis./raw/main/consolidate%20view.png)
 
 ### Patient Details
 
 Provides a detailed view of patient information to explore demographic patterns and admission outcomes.
 
-[![Patient Details](Patient%20Details%20.png)](Patient%20Details%20.png)
+[Patient Details](https://github.com/omt99/hospital-er-analysis./blob/main/Patient%20Details%20.png)
+
+![Patient Details](https://github.com/omt99/hospital-er-analysis./raw/main/Patient%20Details%20.png)
 
 ### Key Takeaways
-
-Summarizes the major analytical findings and highlights opportunities for improving emergency room performance.
-
-[![Key Takeaways](key_takeaways%201.png)](key_takeaways%201.png)
-
-### Recommendations
-
-Presents actionable recommendations to support staffing decisions, patient flow management, and resource planning.
-
-[![Recommendations](Recommendation%20.png)](Recommendation%20.png)
-
-## Dataset Information
-
-|
